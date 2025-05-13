@@ -8,7 +8,6 @@ df = pd.read_csv('/Users/daniillickovaha/Documents/learning/SQL/projects/SEA/bd/
 events = {}
 disp_c = disp_o = disp_s = 0
 
-print(df.head())
 for i in range(len(df)):
     participants = df['participants'][i]
     type = df['type'][i]
@@ -52,7 +51,7 @@ def normal_distr(mid, disp, name, color):
     plt.fill_between(x, norm.pdf(x, mid, sigm), color = color, alpha = 0.2)
     plt.scatter(mid, mx_y, color = 'black', marker = 'o', label = f'mean for {name} = {round(mid)}', zorder = 10) 
     # zorder - position on the z-axis
-    # plt.plot([mid, mid], [0, mx_y], '--', color = color, alpha = 0.8) # vertical dotted     line 
+    plt.plot([mid, mid], [0, mx_y], '--', color = color, alpha = 0.8) # vertical dotted line 
     # ([start_x, end_x], [start_y, end_y])
 
     # for interval (mean - sigm, mean + sigm)
