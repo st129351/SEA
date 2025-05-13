@@ -1,0 +1,101 @@
+type,name,date,location,participants,organizer,source_url
+Conference,International AI Conference 2025,2025-06-15,Moscow,250,MSU,https://example.com/ai2025
+Olympiad,Student Physics Olympiad,2025-03-22,Novosibirsk,120,NSU,https://example.com/physics-olymp
+Seminar,Nanotechnology in Medicine Seminar,2025-04-12,Saint Petersburg,80,SPbU,https://example.com/nanohealth
+Conference,Bioinformatics Summit 2025,2025-05-10,Kazan,180,KFU,https://example.com/bioinfo2025
+Seminar,Climate Change Strategies,2025-06-05,Yekaterinburg,90,UrFU,https://example.com/climate-seminar
+Olympiad,IT Challenge for Students,2025-04-20,Tomsk,130,TSU,https://example.com/it-challenge
+Conference,Quantum Technologies Forum,2025-07-01,Moscow,300,Skoltech,https://example.com/quantumforum
+Seminar,Robotics and AI Applications,2025-08-18,Krasnoyarsk,75,SibFU,https://example.com/robotai
+Olympiad,Chemistry Genius Cup,2025-03-15,Omsk,110,OmSU,https://example.com/chemcup
+Conference,Sustainable Energy Conference,2025-09-09,Samara,220,SSAU,https://example.com/energyconf
+Seminar,Data Ethics and AI,2025-10-21,Perm,60,PSU,https://example.com/dataethics
+Olympiad,Mathematics Excellence Olympiad,2025-02-12,Rostov-on-Don,145,SFedU,https://example.com/matholymp
+Conference,Neuroscience and Psychology Forum,2025-11-05,Voronezh,200,VSU,https://example.com/neuroforum
+Conference,Science Forum #1,2025-10-22,Moscow,129,UrFU,https://example.com/event1
+Conference,Science Forum #2,2025-01-10,Yekaterinburg,407,TSU,https://example.com/event2
+Olympiad,Science Forum #3,2025-03-23,Moscow,422,KFU,https://example.com/event3
+Olympiad,Innovation Congress #4,2025-03-20,Moscow,286,UrFU,https://example.com/event4
+Seminar,Innovation Congress #5,2025-04-21,Novosibirsk,423,TSU,https://example.com/event5
+Conference,Future Tech Expo #6,2025-04-01,Novosibirsk,261,MSU,https://example.com/event6
+Olympiad,Science Forum #7,2025-03-22,Yekaterinburg,322,MSU,https://example.com/event7
+Seminar,Future Tech Expo #8,2025-05-11,Kazan,380,MSU,https://example.com/event8
+Seminar,Science Forum #9,2025-04-16,Moscow,402,MSU,https://example.com/event9
+Seminar,Innovation Congress #10,2025-07-02,Saint Petersburg,131,KFU,https://example.com/event10
+Seminar,Science Forum #11,2025-04-30,Yekaterinburg,59,MSU,https://example.com/event11
+Conference,Science Forum #12,2025-06-21,Yekaterinburg,75,NSU,https://example.com/event12
+Conference,Innovation Congress #13,2025-07-22,Yekaterinburg,439,SPbU,https://example.com/event13
+Olympiad,Science Forum #14,2025-08-23,Saint Petersburg,327,SPbU,https://example.com/event14
+Seminar,Science Forum #15,2025-02-16,Novosibirsk,290,MSU,https://example.com/event15
+Conference,Science Forum #16,2025-11-02,Kazan,170,KFU,https://example.com/event16
+Seminar,Science Forum #17,2025-01-24,Yekaterinburg,362,NSU,https://example.com/event17
+Seminar,Future Tech Expo #18,2025-02-09,Yekaterinburg,193,MSU,https://example.com/event18
+Conference,Innovation Congress #19,2025-06-17,Kazan,128,MSU,https://example.com/event19
+Seminar,Science Forum #20,2025-07-23,Yekaterinburg,484,TSU,https://example.com/event20
+Conference,Innovation Congress #21,2025-06-23,Novosibirsk,459,NSU,https://example.com/event21
+Olympiad,Science Forum #22,2025-01-10,Novosibirsk,442,TSU,https://example.com/event22
+Seminar,Science Forum #23,2025-08-25,Yekaterinburg,221,MSU,https://example.com/event23
+Olympiad,Science Forum #24,2025-04-11,Moscow,442,MSU,https://example.com/event24
+Olympiad,Innovation Congress #25,2025-09-29,Novosibirsk,197,UrFU,https://example.com/event25
+Olympiad,Innovation Congress #26,2025-12-29,Moscow,275,UrFU,https://example.com/event26
+Olympiad,Future Tech Expo #27,2025-12-02,Saint Petersburg,382,SPbU,https://example.com/event27
+Seminar,Innovation Congress #28,2025-05-19,Novosibirsk,57,KFU,https://example.com/event28
+Conference,Innovation Congress #29,2025-07-30,Yekaterinburg,272,TSU,https://example.com/event29
+Seminar,Innovation Congress #30,2025-10-19,Saint Petersburg,194,NSU,https://example.com/event30
+Olympiad,Innovation Congress #31,2025-08-30,Yekaterinburg,68,MSU,https://example.com/event31
+Seminar,Innovation Congress #32,2025-09-11,Novosibirsk,70,NSU,https://example.com/event32
+Seminar,Science Forum #33,2025-01-13,Yekaterinburg,348,SPbU,https://example.com/event33
+Conference,Innovation Congress #34,2025-11-27,Yekaterinburg,266,MSU,https://example.com/event34
+Seminar,Future Tech Expo #35,2025-12-01,Saint Petersburg,184,UrFU,https://example.com/event35
+Olympiad,Future Tech Expo #36,2025-09-08,Saint Petersburg,55,UrFU,https://example.com/event36
+Seminar,Innovation Congress #37,2025-06-14,Yekaterinburg,173,KFU,https://example.com/event37
+Conference,Innovation Congress #38,2025-06-30,Saint Petersburg,457,KFU,https://example.com/event38
+Seminar,Innovation Congress #39,2025-05-01,Novosibirsk,351,TSU,https://example.com/event39
+Seminar,Innovation Congress #40,2025-04-09,Saint Petersburg,294,MSU,https://example.com/event40
+Conference,Innovation Congress #41,2025-02-28,Yekaterinburg,411,UrFU,https://example.com/event41
+Conference,Innovation Congress #42,2025-04-24,Kazan,158,KFU,https://example.com/event42
+Olympiad,Future Tech Expo #43,2025-03-21,Novosibirsk,194,UrFU,https://example.com/event43
+Seminar,Science Forum #44,2025-08-21,Novosibirsk,226,MSU,https://example.com/event44
+Olympiad,Science Forum #45,2025-03-22,Saint Petersburg,434,NSU,https://example.com/event45
+Conference,Science Forum #46,2025-08-02,Saint Petersburg,437,NSU,https://example.com/event46
+Olympiad,Science Forum #47,2025-04-18,Yekaterinburg,102,NSU,https://example.com/event47
+Seminar,Future Tech Expo #48,2025-10-09,Kazan,150,KFU,https://example.com/event48
+Conference,Science Forum #49,2025-07-21,Saint Petersburg,237,KFU,https://example.com/event49
+Olympiad,Future Tech Expo #50,2025-01-17,Saint Petersburg,112,NSU,https://example.com/event50
+Conference,Innovation Congress #51,2025-10-17,Novosibirsk,290,KFU,https://example.com/event51
+Seminar,Science Forum #52,2025-10-09,Yekaterinburg,224,TSU,https://example.com/event52
+Conference,Future Tech Expo #53,2025-10-15,Novosibirsk,422,UrFU,https://example.com/event53
+Conference,Science Forum #54,2025-05-05,Yekaterinburg,369,NSU,https://example.com/event54
+Olympiad,Science Forum #55,2025-10-09,Moscow,98,KFU,https://example.com/event55
+Conference,Science Forum #56,2025-07-17,Saint Petersburg,361,KFU,https://example.com/event56
+Olympiad,Future Tech Expo #57,2025-10-27,Novosibirsk,314,SPbU,https://example.com/event57
+Seminar,Future Tech Expo #58,2025-09-11,Yekaterinburg,312,SPbU,https://example.com/event58
+Seminar,Future Tech Expo #59,2025-05-02,Yekaterinburg,79,KFU,https://example.com/event59
+Conference,Science Forum #60,2025-07-16,Novosibirsk,500,UrFU,https://example.com/event60
+Conference,Innovation Congress #61,2025-05-28,Novosibirsk,126,SPbU,https://example.com/event61
+Olympiad,Innovation Congress #62,2025-06-11,Moscow,191,SPbU,https://example.com/event62
+Seminar,Science Forum #63,2025-02-03,Moscow,244,UrFU,https://example.com/event63
+Seminar,Science Forum #64,2025-10-25,Yekaterinburg,363,SPbU,https://example.com/event64
+Seminar,Science Forum #65,2025-04-06,Kazan,362,MSU,https://example.com/event65
+Conference,Innovation Congress #66,2025-04-21,Yekaterinburg,419,MSU,https://example.com/event66
+Olympiad,Science Forum #67,2025-07-14,Kazan,276,NSU,https://example.com/event67
+Conference,Future Tech Expo #68,2025-06-21,Moscow,218,UrFU,https://example.com/event68
+Seminar,Science Forum #69,2025-06-25,Yekaterinburg,53,KFU,https://example.com/event69
+Conference,Innovation Congress #70,2025-01-29,Yekaterinburg,284,KFU,https://example.com/event70
+Seminar,Science Forum #71,2025-10-07,Novosibirsk,64,MSU,https://example.com/event71
+Seminar,Innovation Congress #72,2025-11-19,Novosibirsk,57,SPbU,https://example.com/event72
+Olympiad,Future Tech Expo #73,2025-02-28,Kazan,494,SPbU,https://example.com/event73
+Seminar,Future Tech Expo #74,2025-02-11,Kazan,306,KFU,https://example.com/event74
+Conference,Science Forum #75,2025-06-10,Saint Petersburg,314,NSU,https://example.com/event75
+Conference,Future Tech Expo #76,2025-10-03,Kazan,408,SPbU,https://example.com/event76
+Seminar,Innovation Congress #77,2025-03-24,Yekaterinburg,405,NSU,https://example.com/event77
+Conference,Future Tech Expo #78,2025-02-16,Saint Petersburg,457,MSU,https://example.com/event78
+Olympiad,Innovation Congress #79,2025-10-28,Kazan,442,SPbU,https://example.com/event79
+Olympiad,Future Tech Expo #80,2025-09-04,Kazan,67,MSU,https://example.com/event80
+Seminar,Innovation Congress #81,2025-08-25,Moscow,294,MSU,https://example.com/event81
+Conference,Science Forum #82,2025-09-05,Yekaterinburg,148,NSU,https://example.com/event82
+Seminar,Innovation Congress #83,2025-06-08,Saint Petersburg,228,SPbU,https://example.com/event83
+Olympiad,Innovation Congress #84,2025-02-12,Moscow,436,SPbU,https://example.com/event84
+Olympiad,Future Tech Expo #85,2025-10-23,Novosibirsk,115,MSU,https://example.com/event85
+Seminar,Innovation Congress #86,2025-02-26,Saint Petersburg,400,NSU,https://example.com/event86
+Olympiad,Future Tech Expo #87,2025-03-04,Moscow,395,NSU,https://example.com/event87

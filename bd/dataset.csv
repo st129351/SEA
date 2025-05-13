@@ -1,0 +1,106 @@
+type,name,participants,date,location,organizer
+Conference,TechConnect Summit 2023,850,2023-05-15,Berlin,TechConnect Europe
+Conference,Data Science World,1200,2023-04-10,Paris,DataScience Global
+Conference,Digital Marketing Pro,950,2023-03-18,Barcelona,Marketing Association
+Conference,FinTech Innovation,780,2023-07-05,London,FinTech Alliance
+Conference,HealthTech Conference,1100,2023-05-30,Vienna,Health Innovators
+Conference,Green Energy Forum,650,2023-09-12,Copenhagen,Energy Council
+Conference,UX Design Expo,580,2023-08-20,Amsterdam,Design Collective
+Conference,Blockchain Revolution,920,2023-10-15,Zurich,Crypto Foundation
+Conference,AI Business Summit,720,2023-11-08,Brussels,AI Association
+Conference,Cloud Computing 2023,880,2023-06-25,Dublin,Cloud Alliance
+Seminar,Python for Beginners,150,2023-06-05,Berlin,Python Institute
+Seminar,Cyber Security 101,180,2023-07-12,London,Security Foundation
+Seminar,Agile Fundamentals,120,2023-08-08,Dublin,Scrum Alliance
+Seminar,Digital Art Masterclass,90,2023-09-15,Barcelona,Art Tech
+Seminar,Startup Funding Basics,200,2023-10-20,Tel Aviv,Startup Network
+Seminar,AI Ethics Workshop,130,2023-11-05,San Francisco,AI Ethics Board
+Seminar,Cloud Essentials,160,2023-12-10,Singapore,Cloud Academy
+Seminar,Legal Tech Intro,110,2024-01-15,New York,LawTech Society
+Seminar,BioTech Trends,140,2024-02-22,Boston,BioTech Institute
+Seminar,VR Development Crash Course,95,2024-03-18,Los Angeles,VR Developers
+Olympiad,Math Championship,320,2023-03-25,Munich,STEM Education
+Olympiad,Coding Competition,280,2023-04-18,Warsaw,Code.org
+Olympiad,Physics Challenge,210,2023-05-12,Prague,Science Foundation
+Olympiad,Robotics Cup,190,2023-06-22,Eindhoven,RoboLeague
+Olympiad,Chemistry Tournament,240,2023-07-15,Zurich,Chemistry Society
+Olympiad,Biology Olympiad,220,2023-08-10,Stockholm,BioScience
+Olympiad,Informatics Challenge,260,2023-09-05,Helsinki,Computer Society
+Olympiad,Engineering Contest,230,2023-10-12,Milan,Engineers Association
+Olympiad,Science Bowl,250,2023-11-15,Barcelona,Science Community
+Olympiad,Mathletes Finals,270,2023-12-20,Paris,Math Association
+Conference,MarTech Conference,890,2024-01-10,Amsterdam,Marketing Tech
+Conference,EdTech Innovations,760,2024-02-15,Helsinki,EdTech Europe
+Conference,MedTech Summit,980,2024-03-20,Zurich,Medical Innovators
+Conference,GameDev Expo,820,2024-04-25,Tokyo,Game Developers
+Conference,SpaceTech Forum,750,2024-05-30,Los Angeles,Space Foundation
+Conference,FoodTech Conference,680,2024-06-05,Milan,Food Innovators
+Conference,TravelTech Summit,920,2024-07-12,Barcelona,TravelTech
+Conference,Retail Innovation,840,2024-08-18,New York,Retail Association
+Conference,HR Tech World,790,2024-09-22,London,HR Tech Group
+Conference,Legal Innovation,860,2024-10-28,Berlin,LegalTech Europe
+Seminar,Data Visualization,170,2024-01-08,Stockholm,Data Institute
+Seminar,Machine Learning Intro,145,2024-02-12,Copenhagen,AI Academy
+Seminar,Digital Marketing 101,155,2024-03-17,Brussels,Marketing School
+Seminar,Blockchain Basics,135,2024-04-21,Zurich,Crypto Academy
+Seminar,UI/UX Principles,125,2024-05-26,Amsterdam,Design School
+Seminar,SEO Workshop,165,2024-06-30,Dublin,Digital Marketing Pro
+Seminar,Web Development,115,2024-08-04,Oslo,Web Developers
+Seminar,App Design,105,2024-09-08,Helsinki,Mobile Developers
+Seminar,Data Privacy,185,2024-10-13,Vienna,Privacy Foundation
+Seminar,Cloud Security,175,2024-11-17,Munich,Security Institute
+Olympiad,Junior Math Olympiad,210,2024-01-05,Prague,Math Society
+Olympiad,Physics Junior Cup,190,2024-02-09,Warsaw,Physics Association
+Olympiad,Chemistry Challenge,230,2024-03-14,Budapest,Chemistry Union
+Olympiad,Biology Bee,220,2024-04-18,Vienna,BioScience Club
+Olympiad,Robotics Junior,240,2024-05-23,Eindhoven,RoboKids
+Olympiad,Computer Science Cup,260,2024-06-27,Stockholm,CS Foundation
+Olympiad,Science Junior Bowl,250,2024-07-31,Copenhagen,Science Youth
+Olympiad,Engineering Challenge,270,2024-09-04,Milan,Young Engineers
+Olympiad,Math Stars,290,2024-10-09,Paris,Math Stars
+Olympiad,Science Whiz,280,2024-11-13,Berlin,Science Stars
+Conference,AI Healthcare Summit,910,2024-12-18,Boston,AI Health
+Conference,FinTech Revolution,940,2025-01-22,Singapore,FinTech Global
+Conference,Smart Cities Expo,870,2025-02-26,Barcelona,Urban Tech
+Conference,Climate Tech Forum,820,2025-03-12,Stockholm,Green Tech
+Conference,Future of Work,780,2025-04-16,San Francisco,WorkTech
+Conference,5G Innovation,850,2025-05-21,Seoul,Telecom Alliance
+Conference,Quantum Computing,790,2025-06-25,Zurich,Quantum Foundation
+Conference,Cyber Security Summit,960,2025-07-30,Tel Aviv,Cyber Alliance
+Conference,Space Innovation,880,2025-09-03,Los Angeles,Space Innovators
+Conference,Digital Health,920,2025-10-08,Berlin,HealthTech
+Seminar,Python Advanced,140,2025-01-07,Amsterdam,Python Pro
+Seminar,AI Ethics Advanced,160,2025-02-11,Boston,AI Ethics Pro
+Seminar,Cloud Architecture,150,2025-03-17,Singapore,Cloud Masters
+Seminar,Blockchain Security,130,2025-04-21,Zurich,Crypto Security
+Seminar,UX Research,120,2025-05-26,Barcelona,UX Research Lab
+Seminar,Digital Transformation,170,2025-06-30,Stockholm,Digital Pro
+Seminar,IT Project Management,110,2025-08-04,San Francisco,PM Institute
+Seminar,Data Science Bootcamp,180,2025-09-08,Seoul,Data Science Pro
+Seminar,DevOps Essentials,190,2025-10-13,Tel Aviv,DevOps Academy
+Seminar,AR/VR Development,195,2025-11-17,Los Angeles,AR/VR Pro
+Olympiad,National Math Finals,310,2025-01-06,Prague,Math Nationals
+Olympiad,Physics Nationals,290,2025-02-10,Warsaw,Physics Nationals
+Olympiad,Chemistry Nationals,330,2025-03-15,Budapest,Chemistry Nationals
+Olympiad,Biology Nationals,320,2025-04-19,Vienna,Biology Nationals
+Olympiad,Robotics Nationals,340,2025-05-24,Eindhoven,Robotics Nationals
+Olympiad,CS Nationals,360,2025-06-28,Stockholm,CS Nationals
+Olympiad,Science Nationals,350,2025-07-02,Copenhagen,Science Nationals
+Olympiad,Engineering Nationals,370,2025-08-06,Milan,Engineering Nationals
+Olympiad,Math World Qualifiers,390,2025-09-10,Paris,Math World
+Olympiad,Science World Qualifiers,380,2025-10-14,Berlin,Science World
+Conference,NeuroTech Symposium,1120,2025-12-05,Boston,BrainTech Collective
+Conference,Sustainable Fashion Forum,980,2026-01-15,Milan,Fashion Innovation Hub
+Conference,Maritime Tech Summit,840,2026-02-20,Oslo,OceanTech Alliance
+Conference,Quantum AI Conference,910,2026-03-10,Zurich,Quantum AI Institute
+Conference,Smart Agriculture Expo,760,2026-04-18,Amsterdam,AgriTech Europe
+Seminar,Biomedical Engineering,145,2026-05-22,Stockholm,MedTech Academy
+Seminar,6G Wireless Workshop,165,2026-06-30,Seoul,Telecom Futures
+Seminar,Digital Twin Technology,125,2026-07-14,Munich,Industry 4.0 Group
+Seminar,Climate Data Analysis,155,2026-08-28,Copenhagen,Green Data Lab
+Seminar,Space Law Fundamentals,135,2026-09-05,Paris,Space Policy Institute
+Olympiad,AI Programming Challenge,410,2026-10-12,Tel Aviv,AI Foundation
+Olympiad,Green Chemistry Olympiad,380,2026-11-16,Zurich,Green Science Org
+Olympiad,RoboEthics Competition,360,2027-01-20,Eindhoven,Ethics in Tech
+Olympiad,Math Modeling Contest,430,2027-02-25,Budapest,Applied Math Society
+Olympiad,NeuroScience Olympiad,390,2027-03-15,Boston,Brain Research Network
