@@ -1,8 +1,8 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-from scipy.stats import norm
-from scipy.integrate import simpson
-import statsmodels.api as sm
+import matplotlib.pyplot as plt # creating graphs
+from scipy.stats import norm # normal distribution
+from scipy.integrate import simpson # for square
+import statsmodels.api as sm # for qq plot
 import numpy as np
 
 df = pd.read_csv('/Users/daniillickovaha/Documents/learning/SQL/projects/SEA/bd/dataset.csv')
@@ -67,7 +67,7 @@ def NormalDistr(mid, disp, name, color):
     plt.plot([mid + 3*sigm, mid + 3*sigm], [0, norm.pdf(mid + 3*sigm, mid, sigm)], '--', color = 'black', alpha = 0.3)
 
     # the area under the prob density graph = 1
-
+    # simpson able to calculate the square under the graph
     x1 = np.linspace(mid - sigm, mid + sigm, 100)
     y1 = norm.pdf(x1, mid, sigm)
     area1 = round(simpson(y=y1, x=x1), 2)
@@ -108,6 +108,9 @@ def QQPlot(name, lst, dist, mean, sigma):
     sm.qqplot(data, dist = dist, loc = mean, scale = sigma, line = '45') # 45 is normal line
     # the x-axis is theoretical quantiles
     # the y-axis is real quantiles
+    # quantile is number, which show, 
+    # that p-part of data in the left side of this number
+    # qq plot comparing the quantiles from 2 set, perfect is equal
     plt.title(f'Q-Q plot for {name}')
     plt.savefig(f'outputs/{name}_qqplot.png', dpi = 324)
     plt.close()
