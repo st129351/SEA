@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.stats import norm
 from scipy.integrate import simpson
+import statsmodels.api as sm
 import numpy as np
 
 df = pd.read_csv('/Users/daniillickovaha/Documents/learning/SQL/projects/SEA/bd/dataset.csv')
@@ -38,7 +39,7 @@ for value in events['Seminar']:
 
 disp_s /= len(events['Seminar'])
 
-def normal_distr(mid, disp, name, color):
+def NormalDistr(mid, disp, name, color):
     plt.figure(figsize = (14, 8)) # creating figure
     sigm = np.sqrt(disp)
     # creating 100 points in range mid - 3*sigm, mid + 3*sigm
@@ -82,9 +83,9 @@ def normal_distr(mid, disp, name, color):
     area3 = round(round(simpson(y=y3, x=x3)) - area2 - area1, 2)
     plt.fill_between(x3, y3, color = color, alpha = 0.1, label = f'square = {area3}')
     
-def call_figure(mid, disp, name, color):
+def CallFigure(mid, disp, name, color):
     # creating the new graphic window
-    normal_distr(mid, disp, name, color)
+    NormalDistr(mid, disp, name, color)
     plt.xlim(0) # less connot be
 
     plt.title('distribution of the number of participants by event type')
@@ -96,8 +97,24 @@ def call_figure(mid, disp, name, color):
     plt.grid(True) # turn on grid
     # set text on graph, bbox - white window for text
     # plt.show()
-    plt.savefig(f'/Users/daniillickovaha/Documents/learning/SQL/projects/SEA/outputs/{name}.png', dpi = 324)
+    plt.savefig(f'outputs/{name}_normal.png', dpi = 324)
+    plt.close()
 
-call_figure(mid_c, disp_c, 'Conference', 'red')
-call_figure(mid_o, disp_o, 'Olympiad', 'blue')
-call_figure(mid_s, disp_s, 'Seminar', 'green')
+def QQPlot(name, lst, dist, mean, sigma):
+    data = np.array(lst)
+    sm.qqplot(data, dist = dist, loc = mean, scale = sigma, line = '45')
+    plt.title(f'Q-Q plot for {name}')
+    plt.savefig(f'outputs/{name}_qqplot.png', dpi = 324)
+    plt.close()
+
+
+CallFigure(mid_c, disp_c, 'Conference', 'red')
+CallFigure(mid_o, disp_o, 'Olympiad', 'blue')
+CallFigure(mid_s, disp_s, 'Seminar', 'green')
+
+QQPlot('Conference', events['Conference'], norm, mid_c, round(np.sqrt(disp_c)))
+QQPlot('Olympiad', events['Olympiad'], norm, mid_o, round(np.sqrt(disp_o)))
+QQPlot('Seminar', events['Seminar'], norm, mid_s, round(np.sqrt(disp_s)))
+
+
+
