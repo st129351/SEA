@@ -98,23 +98,26 @@ def CallFigure(mid, disp, name, color):
     # set text on graph, bbox - white window for text
     # plt.show()
     plt.savefig(f'outputs/{name}_normal.png', dpi = 324)
+    # close for auto-creating new figure and avoid memory leakss
     plt.close()
 
 def QQPlot(name, lst, dist, mean, sigma):
+    # numpy array is +- c-array with static_type data
+    # need for sm.qqplot
     data = np.array(lst)
-    sm.qqplot(data, dist = dist, loc = mean, scale = sigma, line = '45')
+    sm.qqplot(data, dist = dist, loc = mean, scale = sigma, line = '45') # 45 is normal line
+    # the x-axis is theoretical quantiles
+    # the y-axis is real quantiles
     plt.title(f'Q-Q plot for {name}')
     plt.savefig(f'outputs/{name}_qqplot.png', dpi = 324)
     plt.close()
 
-
+# calling normal distribution (theoretical) figure
 CallFigure(mid_c, disp_c, 'Conference', 'red')
 CallFigure(mid_o, disp_o, 'Olympiad', 'blue')
 CallFigure(mid_s, disp_s, 'Seminar', 'green')
 
+# calling Q-Q plots for each events (comparing theoretical with real data)
 QQPlot('Conference', events['Conference'], norm, mid_c, round(np.sqrt(disp_c)))
 QQPlot('Olympiad', events['Olympiad'], norm, mid_o, round(np.sqrt(disp_o)))
 QQPlot('Seminar', events['Seminar'], norm, mid_s, round(np.sqrt(disp_s)))
-
-
-
