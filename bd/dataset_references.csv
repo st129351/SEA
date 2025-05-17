@@ -1,0 +1,106 @@
+type,name,participants,date,location,organizer
+Conference,TechConnect Summit 2023,850,2023-05-15,Berlin,TechConnect Europe,https://events.techconnect.org/Europe/
+Conference,Data Science World,1200,2023-04-10,Paris,DataScience Global,https://datasciconference.com/
+Conference,Digital Marketing Pro,950,2023-03-18,Barcelona,Marketing Association,https://digimarconbarcelona.es/
+Conference,FinTech Innovation,780,2023-07-05,London,FinTech Alliance,https://fintech-alliance.com/ukftw/agenda
+Conference,HealthTech Conference,1100,2023-05-30,Vienna,Health Innovators,https://healthhubvienna.at/summit/
+Conference,Green Energy Forum,650,2023-09-12,Copenhagen,Energy Council,https://energy.ec.europa.eu/events/9th-energy-infrastructure-forum-2023-06-12_en
+Conference,UX Design Expo,580,2023-08-20,Amsterdam,Design Collective,https://www.deliverableux.com/2023-ux-conferences
+Conference,Blockchain Revolution,920,2023-10-15,Zurich,Crypto Foundation,https://hodlsummit.com/
+Conference,AI Business Summit,720,2023-11-08,Brussels,AI Association,https://global-aiconference.com/
+Conference,Cloud Computing 2023,880,2023-06-25,Dublin,Cloud Alliance,https://www.cloudfest.com/
+Seminar,Python for Beginners,150,2023-06-05,Berlin,Python Institute,https://s-quest.bihealth.org/BeOx/Python-Berlin.html
+Seminar,Cyber Security 101,180,2023-07-12,London,Security Foundation,https://www.itraininglondon.co.uk/course/cyber-security-foundation-and-practitioner-csfp-training-certification-courses-london-online-uk/
+Seminar,Agile Fundamentals,120,2023-08-08,Dublin,Scrum Alliance,https://www.scrumalliance.org/
+Seminar,Digital Art Masterclass,90,2023-09-15,Barcelona,Art Tech,https://kvetny.dk/
+Seminar,Startup Funding Basics,200,2023-10-20,Tel Aviv,Startup Network,https://www.eventbrite.com/e/monthly-startup-tech-business-networking-tel-aviv-tickets-1250942606009
+Seminar,AI Ethics Workshop,130,2023-11-05,San Francisco,AI Ethics Board,https://www.sf.gov/reports--december-2023--san-francisco-generative-ai-guidelines
+Seminar,Cloud Essentials,160,2023-12-10,Singapore,Cloud Academy,https://www.thedigitalacademy.tech.gov.sg/course/detail/comptia-cloud-essentials-
+Seminar,Legal Tech Intro,110,2024-01-15,New York,LawTech Society,https://www.linkedin.com/posts/legal-tech-hub_the-2024-lth-innovation-and-tech-enabled-activity-7238886599348875266-b9uk
+Seminar,BioTech Trends,140,2024-02-22,Boston,BioTech Institute,https://bostonbib.com/
+Seminar,VR Development Crash Course,95,2024-03-18,Los Angeles,VR Developers,https://www.travers.tech/
+Olympiad,Math Championship,320,2023-03-25,Munich,STEM Education,https://stemolympiad.org/
+Olympiad,Coding Competition,280,2023-04-18,Warsaw,Code.org,https://code.org/
+Olympiad,Physics Challenge,210,2023-05-12,Prague,Science Foundation,https://fyziklani.org/
+Olympiad,Robotics Cup,190,2023-06-22,Eindhoven,RoboLeague,https://frc-events.firstinspires.org/2023/cmptx
+Olympiad,Chemistry Tournament,240,2023-07-15,Zurich,Chemistry Society,https://scg.ch/scg-news/news-chemedu/announcement1-icho23
+Olympiad,Biology Olympiad,220,2023-08-10,Stockholm,BioScience,https://www.ibo-info.org/en/
+Olympiad,Informatics Challenge,260,2023-09-05,Helsinki,Computer Society,https://ioinformatics.org/files/volume17.pdf
+Olympiad,Engineering Contest,230,2023-10-12,Milan,Engineers Association,https://www.uis.no/en/research/events/technology-and-natural-sciences/2nd-olympiad-in-engineering-science-oes-2025
+Olympiad,Science Bowl,250,2023-11-15,Barcelona,Science Community,https://materials-chain.com/news-events/news/
+Olympiad,Mathletes Finals,270,2023-12-20,Paris,Math Association,https://www.smartick.com/data/international-mathematical-olympiad-2023/
+Conference,MarTech Conference,890,2024-01-10,Amsterdam,Marketing Tech,https://themartechsummit.com/amsterdam/
+Conference,EdTech Innovations,760,2024-02-15,Helsinki,EdTech Europe,https://www.eit.europa.eu/news-events/events/eit-edtech-conference-2024
+Conference,MedTech Summit,980,2024-03-20,Zurich,Medical Innovators,https://healthsciences.ku.dk/calender/calendar-2024/copenhagen-medtech-innovation-summit-2024--medtech-careers
+Conference,GameDev Expo,820,2024-04-25,Tokyo,Game Developers,https://expo.nikkeibp.co.jp/tgs/2024/en/
+Conference,SpaceTech Forum,750,2024-05-30,Los Angeles,Space Foundation,https://www.spacetechexpo.com/
+Conference,FoodTech Conference,680,2024-06-05,Milan,Food Innovators,https://www.foodtech.dk/messe/aktiviteter
+Conference,TravelTech Summit,920,2024-07-12,Barcelona,TravelTech,https://www.traveltech.vc/travel-innovation-summits
+Conference,Retail Innovation,840,2024-08-18,New York,Retail Association,https://www.retailtouchpoints.com/
+Conference,HR Tech World,790,2024-09-22,London,HR Tech Group,https://www.hrtechnologies.co.uk/
+Conference,Legal Innovation,860,2024-10-28,Berlin,LegalTech Europe,https://www.linkedin.com/posts/axiom_law_legalinnovation2024-legaltech-accesstojustice-activity-7199035436827054080-jXVt
+Seminar,Data Visualization,170,2024-01-08,Stockholm,Data Institute,https://training.scilifelab.se/events/workshop-on-data-visualization-in-r
+Seminar,Machine Learning Intro,145,2024-02-12,Copenhagen,AI Academy,https://www.ai-academy.com/
+Seminar,Digital Marketing 101,155,2024-03-17,Brussels,Marketing School,https://digitalmarketingcon.eu/digital-marketing-2024/
+Seminar,Blockchain Basics,135,2024-04-21,Zurich,Crypto Academy,https://www.blockchain.uzh.ch/courses/international-summer-school-deep-dive-into-blockchain-2024/
+Seminar,UI/UX Principles,125,2024-05-26,Amsterdam,Design School,https://www.eventbrite.dk/d/netherlands--amsterdam/ui-ux-design/
+Seminar,SEO Workshop,165,2024-06-30,Dublin,Digital Marketing Pro,https://bedynamic.ie/search-engine-optimisation-seo-bootcamp-training-dublin/
+Seminar,Web Development,115,2024-08-04,Oslo,Web Developers,https://www.webdevopen.com/
+Seminar,App Design,105,2024-09-08,Helsinki,Mobile Developers,https://international.gov-design.com/helsinki2024/
+Seminar,Data Privacy,185,2024-10-13,Vienna,Privacy Foundation,https://globalprivacyassembly.org/dataprotectionday2024/
+Seminar,Cloud Security,175,2024-11-17,Munich,Security Institute,https://securityconference.org/en/msc-2024/marketplace/
+Olympiad,Junior Math Olympiad,210,2024-01-05,Prague,Math Society,https://www.matematickaolympiada.cz/en
+Olympiad,Physics Junior Cup,190,2024-02-09,Warsaw,Physics Association,https://www.ocsolympiad.org/2024/08/wypo-2.html
+Olympiad,Chemistry Challenge,230,2024-03-14,Budapest,Chemistry Union,https://www.ichosc.org/
+Olympiad,Biology Bee,220,2024-04-18,Vienna,BioScience Club,https://www.viennabiocenter.org/
+Olympiad,Robotics Junior,240,2024-05-23,Eindhoven,RoboKids,https://2024.robocup.org/index.html
+Olympiad,Computer Science Cup,260,2024-06-27,Stockholm,CS Foundation,https://sofworld.org/icso
+Olympiad,Science Junior Bowl,250,2024-07-31,Copenhagen,Science Youth,https://www.soinc.org/
+Olympiad,Engineering Challenge,270,2024-09-04,Milan,Young Engineers,https://youngengineers.org/
+Olympiad,Math Stars,290,2024-10-09,Paris,Math Stars,https://nationalmathstars.org/
+Olympiad,Science Whiz,280,2024-11-13,Berlin,Science Stars,https://www.berlin.de/en/events/3742941-2842498-night-of-shooting-stars.en.html
+Conference,AI Healthcare Summit,910,2024-12-18,Boston,AI Health,https://himss1.eventsair.com/himss-2024-ai-in-healthcare-forum/agenda
+Conference,FinTech Revolution,940,2025-01-22,Singapore,FinTech Global,https://fintech.global/2024/10/31/singapore-scales-up-fintech-innovation-with-new-global-finance-technology-network/
+Conference,Smart Cities Expo,870,2025-02-26,Barcelona,Urban Tech,https://www.smartcityexpo.com/
+Conference,Climate Tech Forum,820,2025-03-12,Stockholm,Green Tech,https://si.se/en/impact-pioneers-opencall-announcement_2025/
+Conference,Future of Work,780,2025-04-16,San Francisco,WorkTech,https://www.worktechevents.com/events/worktech25-san-francisco/
+Conference,5G Innovation,850,2025-05-21,Seoul,Telecom Alliance,https://www.m360series.com/asia-pacific
+Conference,Quantum Computing,790,2025-06-25,Zurich,Quantum Foundation,https://sciencecluster.dk/event/conference-ai4quantum/
+Conference,Cyber Security Summit,960,2025-07-30,Tel Aviv,Cyber Alliance,https://cyberweektau.com/
+Conference,Space Innovation,880,2025-09-03,Los Angeles,Space Innovators,https://www.spacetechexpo.com/
+Conference,Digital Health,920,2025-10-08,Berlin,HealthTech,https://www.dmea.de/en/about/dmea/
+Seminar,Python Advanced,140,2025-01-07,Amsterdam,Python Pro,https://amsterdamdataacademy.com/product/programming-with-python/
+Seminar,AI Ethics Advanced,160,2025-02-11,Boston,AI Ethics Pro,https://iapp.org/conference/iapp-ai-governance-global-north-america/
+Seminar,Cloud Architecture,150,2025-03-17,Singapore,Cloud Masters,https://trainingcred.com/sg/training-course/cloud-architecture-and-design-patterns
+Seminar,Blockchain Security,130,2025-04-21,Zurich,Crypto Security,https://www.blockchain.uzh.ch/courses/ddib25/
+Seminar,UX Research,120,2025-05-26,Barcelona,UX Research Lab,https://www.meetup.com/barcelona-user-research-meetup-group/
+Seminar,Digital Transformation,170,2025-06-30,Stockholm,Digital Pro,https://www.digitalfutures.kth.se/event/save-the-date-digitalize-in-stockholm-2025/
+Seminar,IT Project Management,110,2025-08-04,San Francisco,PM Institute,https://www.pmi.org/events/pmi-training
+Seminar,Data Science Bootcamp,180,2025-09-08,Seoul,Data Science Pro,https://www.hyperiondev.com/bootcamps/data-science-bootcamp/
+Seminar,DevOps Essentials,190,2025-10-13,Tel Aviv,DevOps Academy,https://devopsdays.org/events/2025-tel-aviv/welcome/
+Seminar,AR/VR Development,195,2025-11-17,Los Angeles,AR/VR Pro,https://conf.researchr.org/series/ar-vr
+Olympiad,National Math Finals,310,2025-01-06,Prague,Math Nationals,https://www.raisingamathematician.com/motp2025
+Olympiad,Physics Nationals,290,2025-02-10,Warsaw,Physics Nationals,https://allen.in/olympiad/international-physics-olympiad
+Olympiad,Chemistry Nationals,330,2025-03-15,Budapest,Chemistry Nationals,https://www.ocsolympiad.org/2025/05/awards-of-licho-2025.html
+Olympiad,Biology Nationals,320,2025-04-19,Vienna,Biology Nationals,https://biologycompetition.org/regions/nationals.html
+Olympiad,Robotics Nationals,340,2025-05-24,Eindhoven,Robotics Nationals,https://cs.au.dk/news-events/news/show-news/artikel/robot-olympiad-2025-young-robot-builders-battled-for-a-spot-in-the-world-finals
+Olympiad,CS Nationals,360,2025-06-28,Stockholm,CS Nationals,https://www.soinc.org/2025-national-tournament
+Olympiad,Science Nationals,350,2025-07-02,Copenhagen,Science Nationals,https://www.soinc.org/2025-national-tournament
+Olympiad,Engineering Nationals,370,2025-08-06,Milan,Engineering Nationals,https://www.uis.no/en/research/events/technology-and-natural-sciences/2nd-olympiad-in-engineering-science-oes-2025
+Olympiad,Math World Qualifiers,390,2025-09-10,Paris,Math World,https://www.imo-official.org/
+Olympiad,Science World Qualifiers,380,2025-10-14,Berlin,Science World,https://www.soinc.org/
+Conference,NeuroTech Symposium,1120,2025-12-05,Boston,BrainTech Collective,https://theneurotech.eu/neurotecheu-symposium-2025
+Conference,Sustainable Fashion Forum,980,2026-01-15,Milan,Fashion Innovation Hub,https://www.thesustainablefashionforum.com/
+Conference,Maritime Tech Summit,840,2026-02-20,Oslo,OceanTech Alliance,https://splash247.com/ocean-alliance-deal-extended-to-2032/
+Conference,Quantum AI Conference,910,2026-03-10,Zurich,Quantum AI Institute,https://www.eventbrite.dk/o/quantum-ai-institute-65552607503
+Conference,Smart Agriculture Expo,760,2026-04-18,Amsterdam,AgriTech Europe,https://agrinextcon.com/top-agriculture-events-to-attend-in-europe-in-2025/
+Seminar,Biomedical Engineering,145,2026-05-22,Stockholm,MedTech Academy,https://conferencealerts.co.in/stockholm/biomedical-engineering
+Seminar,6G Wireless Workshop,165,2026-06-30,Seoul,Telecom Futures,https://www.o-ran.org/event/6th-o-ran-6g-workshop-the-road-to-6g-standards-views-from-industry-and-academia
+Seminar,Digital Twin Technology,125,2026-07-14,Munich,Industry 4.0 Group,https://ima.it/en/ima-digital-takes-center-stage-at-sps-italia-2025-with-a-presentation-on-the-digital-twin/
+Seminar,Climate Data Analysis,155,2026-08-28,Copenhagen,Green Data Lab,https://datalab.science.ku.dk/english/course/
+Seminar,Space Law Fundamentals,135,2026-09-05,Paris,Space Policy Institute,https://www.space-institute.org/space-policy-and-law-course-2024-cpd-2/
+Olympiad,AI Programming Challenge,410,2026-10-12,Tel Aviv,AI Foundation,https://ioai-official.org/
+Olympiad,Green Chemistry Olympiad,380,2026-11-16,Zurich,Green Science Org,https://www.ichosc.org/
+Olympiad,RoboEthics Competition,360,2027-01-20,Eindhoven,Ethics in Tech,https://competition.raiselab.ca/
+Olympiad,Math Modeling Contest,430,2027-02-25,Budapest,Applied Math Society,https://m3challenge.siam.org/
+Olympiad,NeuroScience Olympiad,390,2027-03-15,Boston,Brain Research Network,https://brainprize.org/
